@@ -26,7 +26,7 @@ code {
 }
 
 .container {
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
   padding: 40px;
   background-color: #272525bd;
@@ -78,7 +78,7 @@ button {
   height: 30px;
   display: flex;
   background-color: transparent;
-  background-image: linear-gradient(to right, rgb(37 39 44 / 0%), rgb(161 11 11 / 78%));
+  background-image: linear-gradient(to right, rgb(37 39 44 / 0%), rgb(161 11 11 / 78%), rgb(161 11 11 / 78%));
   align-items: center;
   justify-content: center;
   color: rgb(226 226 226);
@@ -113,7 +113,7 @@ form input::placeholder {
 }
 
 form button {
-  background-image: linear-gradient(to right, rgb(37 39 44 / 0%), rgb(2 132 8 / 29%), rgb(2 132 8 / 72%));
+  background-image: linear-gradient(to right, rgb(37 39 44 / 0%), rgb(2 132 8 / 72%), rgb(2 132 8 / 72%));
   height: 35px;
   border: none;
 }
